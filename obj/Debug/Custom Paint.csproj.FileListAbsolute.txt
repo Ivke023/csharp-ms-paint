@@ -1,0 +1,8 @@
+C:\Users\Win7\Documents\Visual Studio 2012\Projects\Custom Paint\Custom Paint\bin\Debug\Custom Paint.exe
+C:\Users\Win7\Documents\Visual Studio 2012\Projects\Custom Paint\Custom Paint\bin\Debug\Custom Paint.pdb
+C:\Users\Win7\Documents\Visual Studio 2012\Projects\Custom Paint\Custom Paint\obj\Debug\Custom_Paint.MainWindow.resources
+C:\Users\Win7\Documents\Visual Studio 2012\Projects\Custom Paint\Custom Paint\obj\Debug\Custom_Paint.Properties.Resources.resources
+C:\Users\Win7\Documents\Visual Studio 2012\Projects\Custom Paint\Custom Paint\obj\Debug\Custom Paint.csproj.GenerateResource.Cache
+C:\Users\Win7\Documents\Visual Studio 2012\Projects\Custom Paint\Custom Paint\obj\Debug\Custom Paint.exe
+C:\Users\Win7\Documents\Visual Studio 2012\Projects\Custom Paint\Custom Paint\obj\Debug\Custom Paint.pdb
+C:\Users\Win7\Documents\Visual Studio 2012\Projects\Custom Paint\Custom Paint\obj\Debug\Custom Paint.csprojResolveAssemblyReference.cache
